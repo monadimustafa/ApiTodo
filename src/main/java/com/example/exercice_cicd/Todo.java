@@ -1,4 +1,4 @@
-package com.example.apirest;
+package com.example.exercice_cicd;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

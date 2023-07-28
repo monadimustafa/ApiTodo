@@ -1,4 +1,4 @@
-package com.example.apirest;
+package com.example.exercice_cicd;
 
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;

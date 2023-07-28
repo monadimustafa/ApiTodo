@@ -1,10 +1,10 @@
-package com.example.apirest;
+package com.example.exercice_cicd;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.Optional;
+
 @Service @AllArgsConstructor
 public class TodoService {
 
